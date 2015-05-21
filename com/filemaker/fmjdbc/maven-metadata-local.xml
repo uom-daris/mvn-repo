@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata>
+  <groupId>com.filemaker</groupId>
+  <artifactId>fmjdbc</artifactId>
+  <versioning>
+    <release>FM13.0v5</release>
+    <versions>
+      <version>FM13.0v5</version>
+    </versions>
+    <lastUpdated>20150518055916</lastUpdated>
+  </versioning>
+</metadata>
