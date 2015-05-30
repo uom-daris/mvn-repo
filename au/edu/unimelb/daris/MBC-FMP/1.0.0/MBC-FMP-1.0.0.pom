@@ -13,6 +13,11 @@
       <artifactId>FMP-JDBC</artifactId>
       <version>1.0.0</version>
     </dependency>
+    <dependency>
+      <groupId>au.edu.unimelb.daris</groupId>
+      <artifactId>aibl-commons</artifactId>
+      <version>1.0.0</version>
+    </dependency>
   </dependencies>
 </project>
 
