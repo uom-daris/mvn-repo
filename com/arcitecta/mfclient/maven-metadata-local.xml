@@ -3,12 +3,13 @@
   <groupId>com.arcitecta</groupId>
   <artifactId>mfclient</artifactId>
   <versioning>
-    <release>4.3.046</release>
+    <release>4.3.072</release>
     <versions>
       <version>4.0.005</version>
       <version>4.2.026</version>
       <version>4.3.046</version>
+      <version>4.3.072</version>
     </versions>
-    <lastUpdated>20151107013806</lastUpdated>
+    <lastUpdated>20160215052018</lastUpdated>
   </versioning>
 </metadata>
