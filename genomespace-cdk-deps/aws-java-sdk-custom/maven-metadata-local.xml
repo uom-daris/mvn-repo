@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata>
+  <groupId>genomespace-cdk-deps</groupId>
+  <artifactId>aws-java-sdk-custom</artifactId>
+  <versioning>
+    <release>1.3.14_1</release>
+    <versions>
+      <version>1.3.14_1</version>
+    </versions>
+    <lastUpdated>20160421134723</lastUpdated>
+  </versioning>
+</metadata>

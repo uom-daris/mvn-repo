@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata>
+  <groupId>genomespace-cdk-deps</groupId>
+  <artifactId>analysistoolmgmt-messages</artifactId>
+  <versioning>
+    <versions>
+      <version>0.1-SNAPSHOT</version>
+    </versions>
+    <lastUpdated>20160421134905</lastUpdated>
+  </versioning>
+</metadata>
