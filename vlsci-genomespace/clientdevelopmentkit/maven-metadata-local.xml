@@ -3,9 +3,11 @@
   <groupId>vlsci-genomespace</groupId>
   <artifactId>clientdevelopmentkit</artifactId>
   <versioning>
+    <release>0.1-SNAPSHOT.jar</release>
     <versions>
       <version>0.1-SNAPSHOT</version>
+      <version>0.1-SNAPSHOT.jar</version>
     </versions>
-    <lastUpdated>20160920050735</lastUpdated>
+    <lastUpdated>20160920054900</lastUpdated>
   </versioning>
 </metadata>
