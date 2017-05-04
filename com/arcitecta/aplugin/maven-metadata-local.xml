@@ -3,13 +3,14 @@
   <groupId>com.arcitecta</groupId>
   <artifactId>aplugin</artifactId>
   <versioning>
-    <release>4.4.045</release>
+    <release>4.5.032</release>
     <versions>
       <version>4.0.005</version>
       <version>4.2.026</version>
       <version>4.4.011</version>
       <version>4.4.045</version>
+      <version>4.5.032</version>
     </versions>
-    <lastUpdated>20161113235725</lastUpdated>
+    <lastUpdated>20170504063148</lastUpdated>
   </versioning>
 </metadata>
